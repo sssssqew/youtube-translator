@@ -5,7 +5,7 @@
 import os
 from google_trans_new import google_translator
 
-directory_to_save_captions = '/home/sylee/dev/utility/youtube-translator/captions'
+directory_to_save_captions = '/home/sylee/dev/utility/youtube-translator/captions' # 자막을 저장할 폴더 위치 => PC마다 변경해줘야 함
 
 # 자막 파일들을 담을 폴더 생성하기
 def createFolder(directory):
