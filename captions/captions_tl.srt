@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:02,000
+Magandang umaga 
+
+2
+00:00:06,238 --> 00:00:08,238
+Mahalin mo ito 
+
+3
+00:00:16,486 --> 00:00:18,486
+Mangyaring Tulad ng Mag-subscribe 
+
